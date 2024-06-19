@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "657326f3812c09e7b189f5a4"
+  },
+  "user_id": 1,
+  "attend": true
+},
+{
+  "_id": {
+    "$oid": "657326f3812c09e7b189f5a5"
+  },
+  "user_id": 2,
+  "attend": false
+},
+{
+  "_id": {
+    "$oid": "657326f3812c09e7b189f5a6"
+  },
+  "user_id": 3,
+  "attend": true
+},
+{
+  "_id": {
+    "$oid": "657326f3812c09e7b189f5a7"
+  },
+  "user_id": 4,
+  "attend": true
+},
+{
+  "_id": {
+    "$oid": "657326f3812c09e7b189f5a8"
+  },
+  "user_id": 5,
+  "attend": false
+},
+{
+  "_id": {
+    "$oid": "657326f3812c09e7b189f5a9"
+  },
+  "user_id": 6,
+  "attend": true
+},
+{
+  "_id": {
+    "$oid": "657326f3812c09e7b189f5aa"
+  },
+  "user_id": 7,
+  "attend": false
+},
+{
+  "_id": {
+    "$oid": "657326f3812c09e7b189f5ab"
+  },
+  "user_id": 8,
+  "attend": true
+},
+{
+  "_id": {
+    "$oid": "657326f3812c09e7b189f5ac"
+  },
+  "user_id": 9,
+  "attend": false
+},
+{
+  "_id": {
+    "$oid": "657326f3812c09e7b189f5ad"
+  },
+  "user_id": 10,
+  "attend": true
+}]
